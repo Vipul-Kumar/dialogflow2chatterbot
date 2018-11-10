@@ -1,0 +1,24 @@
+conversations:
+- - all
+  - 12.everything
+- - all at once
+  - 12.everything
+- - show everything
+  - 12.everything
+- - altogether
+  - 12.everything
+- - all at a time
+  - 12.everything
+- - say everything
+  - 12.everything
+- - show all names
+  - 12.everything
+- - show everything in a single go
+  - 12.everything
+- - show complete data
+  - 12.everything
+- - get complete data list
+  - 12.everything
+- - ' show everything'
+  - 12.everything
+intent_name: 12.everything

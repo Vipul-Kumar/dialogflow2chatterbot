@@ -1,0 +1,10 @@
+conversations:
+- - help me through the walkthrough
+  - Help
+- - Help
+  - Help
+- - please help me
+  - Help
+- - help me
+  - Help
+intent_name: Help

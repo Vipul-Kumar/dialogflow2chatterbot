@@ -1,0 +1,18 @@
+conversations:
+- - hey
+  - 00.greetings
+- - hi wassup
+  - 00.greetings
+- - hello
+  - 00.greetings
+- - gud evening
+  - 00.greetings
+- - hy
+  - 00.greetings
+- - good morning
+  - 00.greetings
+- - how's doing
+  - 00.greetings
+- - hi
+  - 00.greetings
+intent_name: 00.greetings

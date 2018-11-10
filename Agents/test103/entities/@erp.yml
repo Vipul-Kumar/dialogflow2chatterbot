@@ -1,0 +1,29 @@
+'@erp':
+  lms:
+    synonym:
+    - lms
+    - leavemanagement
+    - leave management
+    - leave requests
+    - leave approval data
+    - leave
+    - lms
+  people soft:
+    synonym:
+    - people soft
+    - people soft
+  peoplesoft:
+    synonym:
+    - peoplesoft
+    - timecards
+    - timesheets
+    - timecard
+    - timesheet
+    - time and labor
+    - labour
+    - expenses
+    - time and expenses
+    - time and labour
+    - time card
+    - time sheet
+    - peoplesoft

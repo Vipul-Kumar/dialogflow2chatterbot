@@ -1,0 +1,101 @@
+conversations:
+- - want to |@sys.ignore|  a look at |@erp|
+  - erp
+- - ' get |@erp|  where hours |@comparison|  to |@sys.number|  hours'
+  - erp
+- - ' get my |@erp|'
+  - erp
+- - '|@erp|  |@sys.date-period|'
+  - erp
+- - ' get the pending approvals from |@erp|'
+  - erp
+- - ' want to |@sys.ignore|  a look at |@erp|'
+  - erp
+- - ' show from |@erp|'
+  - erp
+- - ' wrap up my pending |@erp|'
+  - erp
+- - ' get from |@erp|  where hours are |@comparison|  |@sys.number|  hours'
+  - erp
+- - ' get data from |@erp|'
+  - erp
+- - ' show me my |@erp|'
+  - erp
+- - ' get from |@erp|  where number of leaves are |@sys.number|'
+  - erp
+- - '|@erp| want to |@sys.ignore|  a look at |@erp|'
+  - erp
+- - '|@sys.ignore|  get from |@erp|'
+  - erp
+- - ' show my list from |@erp|  system'
+  - erp
+- - ' Go to |@erp|'
+  - erp
+- - ' Let''s get through with |@erp|'
+  - erp
+- - ' get pending requests from |@erp|'
+  - erp
+- - ' get from |@erp|'
+  - erp
+- - ' get from |@erp|  where people |@sys.ignore|  worked |@comparison|  than |@sys.number|  hours'
+  - erp
+- - ' wrap up the pending |@erp|'
+  - erp
+- - ' get me my |@erp|'
+  - erp
+- - ' fetch my pending approval list from |@erp|'
+  - erp
+- - ' Let''s get through with |@erp|'
+  - erp
+- - ' Let''s get through with the |@erp|'
+  - erp
+- - ' get my |@erp|'
+  - erp
+- - ' get my approvals list from |@erp|  |@sys.date-period|'
+  - erp
+- - '|@erp|  |@sys.date-period|'
+  - erp
+- - '|@erp|  |@sys.date-period|'
+  - erp
+- - ' get pending requests from |@erp|'
+  - erp
+- - ' get the pending approvals from |@erp|'
+  - erp
+- - ' show the list of people who have applied for |@sys.number|  days |@erp|'
+  - erp
+- - '|@erp||@erp|  where hours |@comparison|  to |@sys.number|  hours'
+  - erp
+- - ' now |@sys.ignore|  from |@erp|'
+  - erp
+- - ' want to |@sys.ignore|  a look at |@erp|'
+  - erp
+- - ' I need to wrap up pending |@erp|'
+  - erp
+- - '|@erp|  |@sys.date-period|'
+  - erp
+- - ' Go to |@erp|'
+  - erp
+- - '|@sys.ignore|  get from |@erp|  system'
+  - erp
+- - ' get the pending approvals from |@erp|'
+  - erp
+- - ' Let''s get through with |@erp|  approvals'
+  - erp
+- - ' fetch from |@erp|  system'
+  - erp
+- - ' wrap up the |@erp|'
+  - erp
+- - ' get data from |@erp|'
+  - erp
+- - ' get data from |@erp|  where number of hours worked are |@comparison|  |@sys.number|  hours'
+  - erp
+- - ' can you please fetch my approval list from |@erp|  where number of applied leaves
+    are |@sys.number|'
+  - erp
+- - ' get pending approvals from |@erp|  for |@sys.date-period|'
+  - erp
+- - ' Let''s get through with |@erp|'
+  - erp
+- - ' bring my |@erp|'
+  - erp
+intent_name: erp

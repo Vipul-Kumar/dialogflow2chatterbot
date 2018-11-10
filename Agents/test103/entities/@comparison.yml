@@ -1,0 +1,31 @@
+'@comparison':
+  equal:
+    synonym:
+    - equal
+    - exactly equal
+    - equal
+  gte:
+    synonym:
+    - gte
+    - greater and  equal than
+    - greater and equal
+    - gte
+  less:
+    synonym:
+    - less
+    - lesser
+    - less than
+    - less
+  lte:
+    synonym:
+    - lte
+    - less and equal than
+    - lesser and equal to
+    - lesser and equal
+    - lte
+  more:
+    synonym:
+    - more
+    - greater than
+    - greater
+    - more

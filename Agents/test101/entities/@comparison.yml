@@ -1,0 +1,9 @@
+'@comparison':
+  gte:
+    synonym:
+    - greater than
+    - gte
+  lt:
+    synonym:
+    - less than
+    - lt

@@ -1,0 +1,11 @@
+'@erp':
+  lms:
+    synonym:
+    - leave management
+    - internal app
+    - lms
+  peoplesoft:
+    synonym:
+    - timesheet
+    - timecard
+    - peoplesoft

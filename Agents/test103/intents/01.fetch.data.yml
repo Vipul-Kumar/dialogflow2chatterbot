@@ -1,0 +1,24 @@
+conversations:
+- - get my approval list
+  - 01.fetch.data
+- - Can you fetch any pending requests data?
+  - 01.fetch.data
+- - show me my pending approval list
+  - 01.fetch.data
+- - Are there any requests pending?
+  - 01.fetch.data
+- - show the requests
+  - 01.fetch.data
+- - Can you get me my list?
+  - 01.fetch.data
+- - Get what all needs to be approved.
+  - 01.fetch.data
+- - If there are any pending requests, please fetch them.
+  - 01.fetch.data
+- - Fetch my approval requests.
+  - 01.fetch.data
+- - get my list
+  - 01.fetch.data
+- - Please get the pending requests.
+  - 01.fetch.data
+intent_name: 01.fetch.data
